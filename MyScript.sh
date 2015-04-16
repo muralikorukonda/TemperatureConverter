@@ -8,4 +8,4 @@
 
 #!/bin/bash
 cd ${WORKSPACE}
-xcodebuild -configuration Debug -target "TemperatureConverterTests" build
+xcodebuild test -scheme TemperatureConverter -destination 'platform=iOS Simulator,name=iPad'
