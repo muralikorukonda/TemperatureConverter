@@ -36,6 +36,7 @@
 		6A24285D1ADF5DA6009E4E2D /* TemperatureConverterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TemperatureConverterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A2428621ADF5DA6009E4E2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A2428631ADF5DA6009E4E2D /* TemperatureConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureConverterTests.swift; sourceTree = "<group>"; };
+		6A2428701ADF869C009E4E2D /* MyScript.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = MyScript.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		6A24283F1ADF5DA6009E4E2D = {
 			isa = PBXGroup;
 			children = (
+				6A2428701ADF869C009E4E2D /* MyScript.sh */,
 				6A24284A1ADF5DA6009E4E2D /* TemperatureConverter */,
 				6A2428601ADF5DA6009E4E2D /* TemperatureConverterTests */,
 				6A2428491ADF5DA6009E4E2D /* Products */,
