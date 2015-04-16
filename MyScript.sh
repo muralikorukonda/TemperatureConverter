@@ -7,4 +7,5 @@
 #  Copyright (c) 2015 Murali. All rights reserved.
 
 #!/bin/bash
+cd ${WORKSPACE}
 xcodebuild -configuration Debug -target "TemperatureConverterTests" build
