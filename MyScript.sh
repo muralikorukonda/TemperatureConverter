@@ -7,5 +7,5 @@
 #  Copyright (c) 2015 Murali. All rights reserved.
 
 #!/bin/bash
-cd ${WORKSPACE}
+
 xcodebuild test -scheme TemperatureConverter -destination 'platform=iOS Simulator,name=iPad'
